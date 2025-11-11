@@ -2,6 +2,8 @@ const riveFiles = [
   ".DS_Store",
   "blocs.riv",
   "dinosaures.riv",
+  "démogéo_accueil.riv",
+  "démogéo_pangee.riv",
   "evenementpangee.riv",
   "pangeeyeux.riv",
   "playmobil.riv",
