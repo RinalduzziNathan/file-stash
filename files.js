@@ -17,6 +17,7 @@ const riveFiles = [
   "popup_tecto_1.riv",
   "popup_volcan_1.riv",
   "popup_volcan_2.riv",
+  "schema_oeil",
   "schema_tecto_1.riv",
   "schema_tecto_2.riv",
   "seisme4.riv",
