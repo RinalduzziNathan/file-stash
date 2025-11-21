@@ -13,6 +13,7 @@ const riveFiles = [
   "evenementpangee.riv",
   "pangee_yeux",
   "pangee_yeux2",
+  "pangee_yeux2.riv",
   "pangeeyeux.riv",
   "playmobil.riv",
   "popup_seisme_1.riv",
