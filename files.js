@@ -1,6 +1,7 @@
 const riveFiles = [
   ".DS_Store",
   "blocs.riv",
+  "demo_geo_fluide_visqueuse2.riv",
   "demo_geo_fluide_visueuse.riv",
   "demogeo_accueil.riv",
   "demogeo_accueil2.riv",
