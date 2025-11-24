@@ -19,6 +19,8 @@ const riveFiles = [
   "playmobil.riv",
   "popup_seisme_1.riv",
   "popup_tecto_1.riv",
+  "popup_tecto_2.riv",
+  "popup_tecto_3.riv",
   "popup_volcan_1.riv",
   "popup_volcan_2.riv",
   "schema_oeil",
