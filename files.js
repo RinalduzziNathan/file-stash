@@ -13,6 +13,7 @@ const riveFiles = [
   "démogéo_pangee.riv",
   "evenementpangee.riv",
   "pangee_yeux",
+  "pangee_yeux.riv",
   "pangee_yeux2",
   "pangee_yeux2.riv",
   "pangeeyeux.riv",
