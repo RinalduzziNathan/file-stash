@@ -8,6 +8,7 @@ const riveFiles = [
   "demogeo_accueil2.riv",
   "demogeo_pangee.riv",
   "demogeo_pangee2.riv",
+  "demogeo_tectonique_convergence.riv",
   "demogeo_volcan.riv",
   "dinosaures.riv",
   "démogéo_pangee.riv",
